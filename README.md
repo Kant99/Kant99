@@ -1,73 +1,122 @@
-## Hi, I'm Tushar Kant 👋
+<h1 align="center">Hi 👋, I'm Tushar Kant</h1>
+<h3 align="center">Full-Stack Developer | Generative AI Engineer</h3>
 
-Software Engineer with hands-on experience in **Full-Stack Development** and **Generative AI**.  
-I enjoy building practical, backend-heavy applications and AI-powered systems that solve real-world problems.
+<p align="center">
+  Building intelligent, backend-heavy applications with AI at the core.
+</p>
 
-Currently working as a **Software Engineer at HCLTech**, where I focus on **agentic AI systems, RAG pipelines, and backend development**.
-
----
-
-### 🧠 What I Work On
-- Building scalable backend services with **FastAPI, Node.js, and Express**
-- Designing **agentic AI workflows** using LangChain, LangGraph, and CrewAI
-- Implementing **Retrieval-Augmented Generation (RAG)** with vector databases and knowledge graphs
-- Developing clean, responsive UIs using **React and Tailwind CSS**
-- Exploring practical use cases of Generative AI beyond demos
+<p align="center">
+  <a href="https://github.com/Kant99">GitHub</a> •
+  <a href="https://linkedin.com/in/tushar-kant00">LinkedIn</a> •
+  <a href="https://tusharkant.netlify.app">Portfolio</a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-**Languages**  
-Python · JavaScript (ES6+) · C++
+I’m a **Software Engineer at HCLTech**, working on **agentic AI systems** and **retrieval-augmented applications**.  
+I enjoy turning complex AI concepts into **clean, scalable, and production-ready systems**.
 
-**Generative AI & Agentic Systems**  
-LangChain · LangGraph · CrewAI · RAG · Knowledge Graphs · Vector Search · LLM Fine-tuning (experimental)
-
-**Backend**  
-FastAPI · Node.js · Express.js
-
-**Frontend**  
-React.js · Tailwind CSS
-
-**Databases**  
-MongoDB · PostgreSQL · Azure Cosmos DB · Neo4j · FAISS
+I focus on:
+- Practical **Generative AI use cases**
+- Backend-heavy architectures
+- Multi-agent reasoning workflows
+- Real-world problem solving (not just demos)
 
 ---
 
-### 💼 Experience
+## 🧠 What I Do Best
 
-**HCLTech** — Graduate Engineer Trainee (Jan 2024 – Present)  
-- Worked on an **Agentic AI-powered ITSM Copilot**
-- Built customized **RAG pipelines** using Neo4j and Azure Cosmos DB
-- Helped reduce incident resolution time through automated knowledge retrieval
-- Experimented with multi-agent orchestration and domain-specific LLM adaptation
-
-**Quirky Duniya** — Web Developer (Remote)  
-- Developed responsive applications using React and Node.js
-- Implemented a **virtual try-on feature** using multimodal AI models
+✅ Design **Agentic AI workflows** (LangChain, LangGraph, CrewAI)  
+✅ Build **RAG pipelines** using vector databases & knowledge graphs  
+✅ Develop scalable **FastAPI & Node.js backends**  
+✅ Integrate AI into full-stack applications  
+✅ Explore open-source LLM tooling and optimization techniques  
 
 ---
 
-### 🚀 Projects
+## 🛠️ Tech Stack
 
-**PDF QnA Agent**  
-Agentic AI system for document-based Q&A using LangChain, LangGraph, FAISS, and local LLMs (Ollama), exposed via FastAPI.
+### 💻 Languages
+`Python` · `JavaScript (ES6+)` · `C++`
 
-**AI-Integrated Mock Interview Platform**  
-A full-stack platform that conducts real-time mock interviews using multi-agent LLM workflows, voice interaction (TTS/STT), and structured AI feedback.
+### 🤖 Generative AI & Agentic Systems
+`LangChain` · `LangGraph` · `CrewAI` · `RAG` · `Knowledge Graphs`  
+`Vector Search` · `FAISS` · `LLM Fine-tuning (experimental)`
+
+### ⚙️ Backend
+`FastAPI` · `Node.js` · `Express.js`
+
+### 🎨 Frontend
+`React.js` · `Tailwind CSS`
+
+### 🗄️ Databases
+`MongoDB` · `PostgreSQL` · `Azure Cosmos DB` · `Neo4j`
 
 ---
 
-### 🎯 Current Focus
-- Full-Stack AI Development
-- Agentic AI & Production RAG Systems
-- Backend-heavy, scalable applications
+## 💼 Experience
+
+### 🏢 HCLTech  
+**Graduate Engineer Trainee** · *Jan 2024 – Present*
+
+- Built an **Agentic AI-powered ITSM Copilot**
+- Implemented **custom RAG pipelines** using Neo4j & Azure Cosmos DB
+- Reduced incident resolution time through automated knowledge retrieval
+- Experimented with **multi-agent orchestration** for complex workflows
 
 ---
 
-### 🔗 Connect With Me
-- **GitHub:** https://github.com/Kant99  
-- **Portfolio:** https://tusharkant.netlify.app  
-- **LinkedIn:** https://linkedin.com/in/tushar-kant00  
-- **Email:** reshukumar123@gmail.com
+### 🌍 Quirky Duniya (Remote)  
+**Web Developer** · *Jun 2023 – Dec 2023*
+
+- Developed responsive applications using **React.js & Node.js**
+- Built a **virtual try-on feature** using multimodal AI models
+- Improved user experience by reducing browsing time significantly
+
+---
+
+## 🧩 Featured Projects
+
+### 📄 PDF QnA Agent
+> Agentic AI system for intelligent document-based question answering
+
+- LangChain + LangGraph based multi-agent pipeline  
+- FAISS-powered semantic retrieval  
+- Local LLM inference using Ollama  
+- FastAPI backend for scalable access  
+
+---
+
+### 🎤 AI-Integrated Mock Interview Platform
+> Real-time, AI-driven mock interview experience
+
+- Multi-agent interview workflow (questioning, analysis, feedback)
+- Voice interaction using **TTS & STT**
+- Full-stack implementation with React, Node.js & Firebase
+- Focus on realistic interview simulation and actionable feedback
+
+---
+
+## 🎯 Current Focus
+
+🚀 Full-Stack AI Development  
+🧠 Agentic AI & Production RAG Systems  
+⚙️ Scalable Backend Architectures  
+📈 Building AI products that solve real problems  
+
+---
+
+## 📫 Let’s Connect
+
+- 🔗 **GitHub:** https://github.com/Kant99  
+- 🌐 **Portfolio:** https://tusharkant.netlify.app  
+- 💼 **LinkedIn:** https://linkedin.com/in/tushar-kant00  
+- 📧 **Email:** reshukumar123@gmail.com  
+
+---
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
