@@ -3,7 +3,7 @@
 Software Engineer with hands-on experience in **Full-Stack Development** and **Generative AI**.  
 I enjoy building practical, backend-heavy applications and AI-powered systems that solve real-world problems.
 
-Currently working as a **Graduate Engineer Trainee at HCLTech**, where I focus on **agentic AI systems, RAG pipelines, and backend development**.
+Currently working as a **Software Engineer at HCLTech**, where I focus on **agentic AI systems, RAG pipelines, and backend development**.
 
 ---
 
