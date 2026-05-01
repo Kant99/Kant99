@@ -59,7 +59,7 @@ I focus on:
 ## 💼 Experience
 
 ### 🏢 HCLTech  
-**Graduate Engineer Trainee** · *Jan 2024 – Present*
+**Software Engineer** · *Jan 2024 – Present*
 
 - Built an **Agentic AI-powered ITSM Copilot**
 - Implemented **custom RAG pipelines** using Neo4j & Azure Cosmos DB
