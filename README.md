@@ -150,11 +150,11 @@ I work on building AI-powered applications using **LLMs, RAG, AI agents, vision-
 
 </div>
 
-> 💡 These widgets update automatically — no action needed once the README is on your profile repo.
+
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <div align="center">
 
@@ -162,7 +162,6 @@ I work on building AI-powered applications using **LLMs, RAG, AI agents, vision-
 
 </div>
 
-> ⚙️ **Setup note:** the snake animation needs a one-time GitHub Actions workflow to generate it. See the "Enable the animations" section below.
 
 ---
 
