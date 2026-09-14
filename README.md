@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tushar Kant</h1>
-<h3 align="center">Full-Stack Developer | Generative AI Engineer</h3>
+
+<h3 align="center">AI Engineer | Generative AI | Agentic AI | Multimodal AI | Backend Engineering</h3>
 
 <p align="center">
-  Building intelligent, backend-heavy applications with AI at the core.
+  Building intelligent AI systems and scalable backend applications.
 </p>
 
 <p align="center">
@@ -13,110 +14,143 @@
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-I’m a **Software Engineer at HCLTech**, working on **agentic AI systems** and **retrieval-augmented applications**.  
-I enjoy turning complex AI concepts into **clean, scalable, and production-ready systems**.
+AI Engineer focused on **Generative AI, Agentic AI, Multimodal AI, Computer Vision, and Backend Engineering**.
 
-I focus on:
-- Practical **Generative AI use cases**
-- Backend-heavy architectures
-- Multi-agent reasoning workflows
-- Real-world problem solving (not just demos)
+I work on building AI-powered applications using **LLMs, RAG, AI agents, vision-language models, semantic search, and scalable backend services**.
 
----
+My interests include:
 
-## 🧠 What I Do Best
-
-✅ Design **Agentic AI workflows** (LangChain, LangGraph, CrewAI)  
-✅ Build **RAG pipelines** using vector databases & knowledge graphs  
-✅ Develop scalable **FastAPI & Node.js backends**  
-✅ Integrate AI into full-stack applications  
-✅ Explore open-source LLM tooling and optimization techniques  
+* 🤖 Generative AI & LLM Applications
+* 🧠 Agentic AI & Multi-Agent Systems
+* 🎥 Multimodal AI & Video Understanding
+* 👁️ Computer Vision & Vision-Language Models
+* 🔍 RAG & Semantic Search
+* ⚙️ AI Backend Engineering
+* 🗂️ Vector Search & Knowledge Graphs
+* 🚀 Production AI Systems
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-`Python` · `JavaScript (ES6+)` · `C++`
+### 🤖 AI / Generative AI
 
-### 🤖 Generative AI & Agentic Systems
-`LangChain` · `LangGraph` · `CrewAI` · `RAG` · `Knowledge Graphs`  
-`Vector Search` · `FAISS` · `LLM Fine-tuning (experimental)`
+`Python` · `LLMs` · `LangChain` · `LangGraph` · `CrewAI`
+`RAG` · `Prompt Engineering` · `Embeddings` · `Tool Calling`
+`AI Agents` · `Multi-Agent Systems` · `LLM Fine-tuning`
+
+### 👁️ Computer Vision / Multimodal AI
+
+`PyTorch` · `Hugging Face Transformers` · `Florence-2`
+`GroundingDINO` · `SAM` · `CLIP` · `OpenCV`
+
+### 🔎 Search / Knowledge
+
+`Azure AI Search` · `FAISS` · `Semantic Search`
+`Vector Search` · `Neo4j` · `Knowledge Graphs`
 
 ### ⚙️ Backend
-`FastAPI` · `Node.js` · `Express.js`
 
-### 🎨 Frontend
-`React.js` · `Tailwind CSS`
+`FastAPI` · `Python` · `Node.js` · `Express.js`
+`REST APIs` · `Async Programming` · `Webhooks` · `Microservices`
 
 ### 🗄️ Databases
-`MongoDB` · `PostgreSQL` · `Azure Cosmos DB` · `Neo4j`
+
+`PostgreSQL` · `MongoDB` · `Azure Cosmos DB` · `Neo4j`
+
+### ☁️ Cloud / Infrastructure
+
+`Microsoft Azure` · `AWS` · `Docker`
+`CUDA` · `NVIDIA L4` · `Ollama`
+
+### 💻 Frontend
+
+`React.js` · `JavaScript` · `Tailwind CSS`
 
 ---
 
 ## 💼 Experience
 
-### 🏢 HCLTech  
-**Software Engineer** · *Jan 2024 – Present*
+### 🏢 PwC India
 
-- Built an **Agentic AI-powered ITSM Copilot**
-- Implemented **custom RAG pipelines** using Neo4j & Azure Cosmos DB
-- Reduced incident resolution time through automated knowledge retrieval
-- Experimented with **multi-agent orchestration** for complex workflows
+**AI Engineer** · Aug 2026 – Present
+
+`Generative AI` · `Agentic AI` · `RAG` · `Azure` · `LLMs` · `AI Agents`
+
+* Building AI-powered enterprise applications and intelligent workflows
+* Working with LLMs, RAG, semantic search, and agentic architectures
+* Developing AI backends and integrating Azure AI services
+* Building production-oriented AI solutions with human-in-the-loop workflows
+
+### 🏢 HCLTech
+
+**Software Engineer** · Jan 2024 – Jul 2026
+
+`Generative AI` · `RAG` · `Agentic AI` · `Neo4j` · `Azure Cosmos DB`
+
+* Built Agentic AI-powered enterprise applications
+* Developed custom RAG pipelines using structured and unstructured data
+* Worked with knowledge graphs and vector-based retrieval
+* Designed backend services for AI-powered workflows
+
+### 🌍 Quirky Duniya
+
+**Web Developer** · Jun 2023 – Dec 2023
+
+`React.js` · `Node.js` · `Multimodal AI`
+
+* Developed full-stack web applications
+* Built a multimodal AI-powered virtual try-on feature
+* Developed backend APIs and integrated AI capabilities
 
 ---
 
-### 🌍 Quirky Duniya (Remote)  
-**Web Developer** · *Jun 2023 – Dec 2023*
+## 🔥 Featured Projects
 
-- Developed responsive applications using **React.js & Node.js**
-- Built a **virtual try-on feature** using multimodal AI models
-- Improved user experience by reducing browsing time significantly
+### 🛍️ Shoppable AI Video Pipeline
 
----
+`Python` · `FastAPI` · `PyTorch` · `Florence-2` · `GroundingDINO`
+`SAM` · `CLIP` · `Qwen 2.5` · `Ollama` · `Transformers`
+`CUDA` · `NVIDIA L4` · `Docker`
 
-## 🧩 Featured Projects
+### 🧠 Agentic WebApp Builder
 
-### 📄 PDF QnA Agent
-> Agentic AI system for intelligent document-based question answering
+`Python` · `LLMs` · `LangGraph` · `AI Agents` · `FastAPI`
+`React` · `Node.js` · `Agentic Workflows`
 
-- LangChain + LangGraph based multi-agent pipeline  
-- FAISS-powered semantic retrieval  
-- Local LLM inference using Ollama  
-- FastAPI backend for scalable access  
+### 🎤 AI Mock Interview Platform
 
----
-
-### 🎤 AI-Integrated Mock Interview Platform
-> Real-time, AI-driven mock interview experience
-
-- Multi-agent interview workflow (questioning, analysis, feedback)
-- Voice interaction using **TTS & STT**
-- Full-stack implementation with React, Node.js & Firebase
-- Focus on realistic interview simulation and actionable feedback
+`React` · `Node.js` · `Firebase` · `LLMs` · `STT` · `TTS`
+`Multi-Agent Systems`
 
 ---
 
 ## 🎯 Current Focus
 
-🚀 Full-Stack AI Development  
-🧠 Agentic AI & Production RAG Systems  
-⚙️ Scalable Backend Architectures  
-📈 Building AI products that solve real problems  
+`Agentic AI` · `Generative AI` · `Multimodal AI`
+`LLM Applications` · `RAG` · `Computer Vision`
+`AI Backend Engineering` · `LLM Evaluation` · `AI Systems`
 
 ---
 
-## 📫 Let’s Connect
+## 📚 Exploring
 
-- 🔗 **GitHub:** https://github.com/Kant99  
-- 🌐 **Portfolio:** https://tusharkant.netlify.app  
-- 💼 **LinkedIn:** https://linkedin.com/in/tushar-kant00  
-- 📧 **Email:** reshukumar123@gmail.com  
+`LLM Fine-tuning` · `Multimodal Models` · `VLMs`
+`AI Agents` · `LLM Evaluation` · `Inference Optimization`
+`AI System Design` · `AI Infrastructure`
 
 ---
+
+## 📫 Let's Connect
 
 <p align="center">
-  <i>Always learning. Always building.</i>
+  <a href="https://github.com/Kant99">GitHub</a> •
+  <a href="https://linkedin.com/in/tushar-kant00">LinkedIn</a> •
+  <a href="https://tusharkant.netlify.app">Portfolio</a>
+</p>
+
+<p align="center">
+  <i>Building intelligent systems, one problem at a time. 🚀</i>
 </p>
